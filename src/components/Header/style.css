@@ -1,0 +1,203 @@
+.header{
+    width: 1680px;
+height: 5406px;
+top: 0px;
+gap: 0px;
+background-color: #FFFBED;
+
+}
+
+.cty img{
+    width: 22px;
+    height: 22px;
+    top: 11px;
+    left: 246px;
+    gap: 0px;
+    opacity: 0px;
+    position: absolute;
+}
+.cty h2{
+    width: 127px;
+    height: 22px;
+    top: 11px;
+    left: 272px;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    position: absolute;
+}
+.cty .input{
+    width: 100px;
+    height: 22px;
+    font-size: 19px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    position: absolute;
+    left:340px;
+    top: 11px;
+    background: none;
+    border: none;
+}
+
+
+
+.time img{
+    width: 22px;
+    height: 22px;
+    top: 11px;
+    left: 470px;
+    position: absolute;
+    
+}
+.time h2{
+top: 11px;
+left: 500px;
+position: absolute;
+font-family: Roboto;
+font-size: 14px;
+font-weight: 400;
+line-height: 22px;
+text-align: left;
+
+}
+
+
+
+.navbar li{
+    display: inline-block;
+    margin-right: 30px;
+}
+.navbar li img{
+    top: 5px;
+    position: relative;
+}
+.navbar {
+top: 11px;
+left: 900px;
+gap: 30px;
+position: absolute;
+
+}
+
+
+
+
+.media{
+    width: 1680px;
+height: 78px;
+top: 44px;
+position: absolute;
+border-top: 3px solid #F4F0E6;
+border-bottom: 3px solid #F4F0E6;
+}
+
+.media li{
+    display: inline-block;
+    margin-right: 30px;
+}
+
+.media .navbar{
+    position: absolute;
+    top: 10px;
+    left: 251px;
+
+    
+}
+
+
+
+.smm{
+    width: 300px;
+    height: 56px;
+    position: absolute;
+    top: 54px;
+    left: 950px;
+    border-left: 2px solid #F4F0E6;
+    border-right:2px solid #F4F0E6 ;
+}
+
+.smm .navbar li{
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.smm .navbar{
+    position: absolute;
+    top: 12px;
+    left: 20px;
+}
+.smm .phone{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 22px;
+    text-align: right;
+    position: absolute;
+    top: 0px;
+    left: 150px;
+
+}
+.smm button{
+    width: 125px;
+height: 30px;
+top: 25px;
+left: 145px;
+position: absolute;
+border-radius: 4px ;
+border: 1px solid #FD9339;
+background: none;
+}
+.smm button img{
+    position: absolute;
+    top: 6px;
+    left:10px;
+    
+}
+
+.smm button h2{
+    font-family: Roboto;
+font-size: 12px;
+font-weight: 400;
+line-height: 18px;
+text-align: center;
+color: #FD9339;
+position: absolute;
+top: 6px;
+left:35px;
+}
+
+
+
+.karzinka .h2{
+    font-family: Roboto;
+font-size: 14px;
+font-weight: 400;
+line-height: 22px;
+position: absolute;
+top: 61px;
+left: 1281px;
+
+}
+.karzinka .sum{
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: 22px;    
+position: absolute;
+top: 85px;
+left: 1281px;
+color: #FD9339;
+
+}
+.karzinka img{
+top: 59px;
+left: 1382px;
+position: absolute;
+}
+/* .karzinka
+.karzinka */
+
+
