@@ -12,8 +12,9 @@ import watsap from "../../img/WhatsUp.svg"
 import messenger from "../../img/Messenger.svg"
 import phone from "../../img/phones-03 1.svg"
 import korzinka from "../../img/shopping-cart 1.svg"
-// import logo from "../../img/"
-// import logo from "../../img/"
+import arrows from "../../img/arrows-diagrams-04 3.svg"
+import search from "../../img/search-loupe 2.svg"
+// import logo from "../../img/"  
 
 
 
@@ -71,6 +72,22 @@ const Header = () => {
           <h2  className="h2">Ваша корзина</h2>
           <h2 className="sum">1680 руб.</h2>
           <img src={korzinka} alt="" />
+        </div>
+        <div className="header_and">
+          <div className="navbar">
+            <ol>
+              <li>Рецепты <img src={arrows} alt="" /></li>
+              <li>Доставка и оплата</li>
+              <li>Калькулятор Сыродела</li>
+              <li>Отзывы</li>
+              <li>Вопросы и ответы</li>
+              <li>Контакты</li>
+            </ol>
+          </div>
+          <div className="search">
+            <img src={search} alt="" />
+            <input type="search" placeholder='Введите название товара или артикул' />
+          </div>
         </div>
       </div>
     </header>

@@ -197,7 +197,45 @@ top: 59px;
 left: 1382px;
 position: absolute;
 }
-/* .karzinka
-.karzinka */
+
+
+
+.header_and {
+    width: 1680px;
+    height: 50px;
+    top: 140px;
+    position: absolute;
+    border-bottom: 3px solid #F4F0E6;
+}
+.header_and .navbar{
+    position: absolute;
+    top: 0px;
+    left: 250px;
+}
+.header_and .search{
+    height: 30px;
+    width: 300px;
+    border-left: 1px solid #F4F0E6;
+    position: absolute;
+    top: 0px;
+    left: 1160px;
+}
+.header_and img{
+    position: absolute;
+    top: 2px;
+    left: 10px;
+}
+.header_and input{
+    position: absolute;
+    top: 4px;
+    left: 40px;
+    width: 260px;
+    height: 22px;
+    background: none;
+    border: none;
+
+
+}
+/* .header_and */
 
 
