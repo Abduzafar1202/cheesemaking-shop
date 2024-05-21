@@ -1,0 +1,689 @@
+.hero{
+    width: 1680px;
+height: 5406px;
+top: 190px;
+gap: 0px;
+opacity: 0px;
+position: absolute;
+background-color: #FFFBED;
+}
+
+
+.hero_img1{
+    position: absolute;
+    top:20px;
+    left: 250px;
+    
+}
+.hero_img1 h2{
+    position: absolute;
+    top: 30px;
+    left:30px;
+    font-family: Circe Rounded;
+    font-size: 36px;
+    font-weight: 800;
+    line-height: 40px;
+    color: #ffffff;
+
+}
+.hero_img1 p{
+    position: absolute;
+    top: 80px;
+    left:30px;
+    color: #ffffff;
+    font-family: Circe Rounded;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 26px;
+
+}
+.hero_img1 button{
+    position: absolute;
+    top: 224px;
+    left: 30px;
+    width: 200px;
+    height: 46px;
+    border-radius: 5px;
+    background-color: #FD9339;
+    color: #ffffff;
+    border: none;
+}
+
+.hero_img2{
+    position: absolute;
+    top:20px;
+    left: 842px;
+    
+}
+.hero_img2 h2{
+    position: absolute;
+    top: 240px;
+    left:30px;
+    font-family: Circe Rounded;
+    font-size: 22px;
+    font-weight: 800;
+    line-height: 28px;  
+    color: #ffffff;
+
+}
+.hero_img2 p{
+    position: absolute;
+    top: 220px;
+    left:30px;
+    color:#FD9339;
+    font-family: Circe Rounded;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;  
+    
+
+}
+
+
+
+.hero_img3{
+    position: absolute;
+    top:20px;
+    left: 1137px;
+    
+}
+.hero_img3 h2{
+    position: absolute;
+    top: 240px;
+    left:30px;
+    font-family: Circe Rounded;
+    font-size: 22px;
+    font-weight: 800;
+    line-height: 28px;  
+    color: #ffffff;
+
+}
+.hero_img3 p{
+    position: absolute;
+    top: 220px;
+    left:30px;
+    color:#FD9339;
+    font-family: Circe Rounded;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;  
+    
+
+}
+
+
+.navbar_staff{
+    border-bottom: 2px solid #FFFBED;
+    border: 2px solid #E6E6E6;
+    width: 280px;
+    position: absolute;
+    left: 250px;
+    top: 350px;
+
+}
+.navbar_staff .btn{
+    width: 280px;
+    height: 48px;
+    background: #FBE8BB;
+    border: 2px solid #E6E6E6;
+
+}
+.navbar_staff .btn img{
+position: absolute;
+top: 12px;
+left: 10px;
+
+}
+.navbar_staff .btn h2{
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 22px;
+    text-align: left;
+    position: absolute;
+    top: 15px;
+    left: 40px;
+
+}
+
+.navbar_staff ol li{
+    display: inline-block;
+}
+.navbar_staff ol li button {
+    width: 280px;
+    height: 48px;
+    background-color: #ffffff;
+    border: 2px solid #E6E6E6;
+}
+.navbar_staff ol li button:hover{
+    background-color: #acacac;
+}
+.navbar_staff ol li button h2{ 
+    position: relative;
+    top: 10px;
+    left: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+
+
+}
+.navbar_staff ol li button img{
+    top: -10px;
+    position: relative;
+    left: 110px;
+    
+}
+
+
+
+
+
+.navbar_staff2{
+    border-bottom: 2px solid #FFFBED;
+    border: 2px solid #E6E6E6;
+    width: 280px;
+    position: absolute;
+    left: 250px;
+    top: 750px;
+
+}
+.navbar_staff2 .btn{
+    width: 280px;
+    height: 48px;
+    background: #FBE8BB;
+    border: 2px solid #E6E6E6;
+
+}
+.navbar_staff2 .btn img{
+position: absolute;
+top: 12px;
+left: 10px;
+
+}
+.navbar_staff2 .btn h2{
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 22px;
+    text-align: left;
+    position: absolute;
+    top: 15px;
+    left: 40px;
+
+}
+
+.navbar_staff2 ol li{
+    display: inline-block;
+}
+.navbar_staff2 ol li button {
+    width: 280px;
+    height: 48px;
+    background-color: #ffffff;
+    border: 2px solid #E6E6E6;
+}
+.navbar_staff2 ol li button:hover{
+    background-color: #acacac;
+}
+.navbar_staff2 ol li button h2{ 
+    position: relative;
+    top: 10px;
+    left: 20px;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 24px;
+    text-align: left;
+
+
+}
+.navbar_staff2 ol li .li { 
+    width: 280px;
+    height: 80px;
+
+
+}
+.navbar_staff2 ol li .li h2{ 
+position: relative;
+top: 0px;
+left: 20px;
+}
+.navbar_staff2 ol li button img{
+    top: -10px;
+    position: relative;
+    left: 110px;
+    
+}
+
+
+
+
+.card .navbar li{
+display: inline-block;
+margin-right: 30px;
+font-size: 17px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0.01em;
+text-align: left;
+color: #808080;
+
+}
+.card .navbar li:hover{
+    color: #FD9339 ;
+    padding: 0px 0px 10px 0px;
+border-bottom: 2px solid #FD9339;
+}
+.card .navbar{
+    position: absolute;
+    left: 570px;
+    top: 360px;
+    
+}
+.card h2{
+    position: absolute;
+    left: 570px;
+    top: 420px;
+font-size: 22px;
+font-weight: 700;
+line-height: 24px;
+text-align: left;
+color: #4E2D2D;
+
+}
+
+.card .card_navbar li{
+    display: inline-block;
+    margin-right: 20px;
+    line-height: 70px;
+    position: relative;
+}
+.card .card_navbar div{
+    width: 208px;
+height: 300px;
+background-color: #ffffff;
+
+}
+.card .card_navbar h2{
+    position: relative;
+    top: 10px;
+    left: 12px;
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+text-align: left;
+
+}
+.card .card_navbar p{
+    position: relative;
+    top: 10px;
+    left: 12px;
+}
+.card .card_navbar img{
+    position: relative;
+    top: 10px;
+    left: 12px;
+}
+.card .card_navbar del{
+    position: relative;
+    top: -40px;
+    left: 12px;
+    color: #ff0101;
+}
+.card .card_navbar button{
+    position: relative;
+    top: -50px;
+    left: 73px;
+    color: #ffffff;
+    background-color: #FD9339;
+    border-radius: 5px;
+    padding: 12px 12px 12px 12px;
+    border: none ;
+}
+.card .card_navbar{
+    width: 920px;
+    position: absolute;
+    left: 570px;
+    top: 470px;
+    
+}
+
+
+
+.card2 h2{
+    position: absolute;
+    left: 570px;
+    top: 1140px;
+font-size: 22px;
+font-weight: 700;
+line-height: 24px;
+text-align: left;
+color: #4E2D2D;
+
+}
+
+.card2 .card_navbar li{
+    display: inline-block;
+    margin-right: 20px;
+    line-height: 70px;
+    position: relative;
+}
+.card2 .card_navbar div{
+    width: 208px;
+height: 300px;
+background-color: #ffffff;
+
+}
+.card2 .card_navbar h2{
+    position: relative;
+    top: 10px;
+    left: 12px;
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+text-align: left;
+
+}
+.card2 .card_navbar p{
+    position: relative;
+    top: 10px;
+    left: 12px;
+}
+.card2 .card_navbar img{
+    position: relative;
+    top: 10px;
+    left: 12px;
+}
+.card2 .card_navbar del{
+    position: relative;
+    top: -40px;
+    left: 12px;
+    color: #ff0101;
+}
+.card2 .card_navbar button{
+    position: relative;
+    top: -50px;
+    left: 73px;
+    color: #ffffff;
+    background-color: #FD9339;
+    border-radius: 5px;
+    padding: 12px 12px 12px 12px;
+    border: none ;
+}
+.card2 .card_navbar{
+    width: 920px;
+    position: absolute;
+    left: 570px;
+    top: 1180px;
+    
+}
+.state h1{
+    font-size: 15px;
+    border-radius: 50px;
+    padding: 2px 5px 2px 5px;
+    background-color:#FD9339;
+    display: inline-block;
+    position: absolute;
+    color: #ffffff;
+    z-index: 9;
+    position: fixed;
+    top: 62px;
+    left: 1416px;
+}
+.img img{
+    position: absolute;
+    top: 2000px;
+}
+
+.img_box h3{
+    position: absolute;
+font-size: 28px;
+font-weight: 800;
+line-height: 40px;
+letter-spacing: 0.01em;
+text-align: left;
+top: -70px;
+left: 20px;
+
+
+}
+.img_box {
+    position: absolute;
+top: 2950px;
+left: 250px;
+
+
+}
+.img_box h2{
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    font-family: Circe Rounded;
+font-size: 25px;
+font-weight: 700;
+line-height: 31.92px;
+text-align: left;
+
+}
+.img_box p{
+    position: absolute;
+    top: 120px;
+    left: 40px;
+    font-family: Circe Rounded;
+font-size: 16px;
+font-weight: 400;
+line-height: 20.8px;
+text-align: left;
+
+}
+.img_box button{
+    position: absolute;
+    top: 260px;
+    left: 40px;
+    width: 132px;
+height: 44px;
+border-radius: 5px ;
+border:none;
+background-color: #FD9339;
+color: #ffffff;
+}
+
+.img_box2 {
+    position: absolute;
+top: 2950px;
+left: 850px;
+
+
+}
+.img_box2 h2{
+    position: absolute;
+    top: 40px;
+    left: 40px;
+    font-family: Circe Rounded;
+font-size: 25px;
+font-weight: 700;
+line-height: 31.92px;
+text-align: left;
+
+}
+.img_box2 p{
+    position: absolute;
+    top: 120px;
+    left: 40px;
+    font-family: Circe Rounded;
+font-size: 16px;
+font-weight: 400;
+line-height: 20.8px;
+text-align: left;
+
+}
+.img_box2 button{
+    position: absolute;
+    top: 260px;
+    left: 40px;
+    width: 132px;
+height: 44px;
+border-radius: 5px ;
+border:none;
+background-color: #FD9339;
+color: #ffffff;
+}
+
+.corusel{
+    position: absolute;
+    left: 250px;
+    top: 3350px;
+}
+
+.corusel img{
+    position: absolute;
+    left: 0px;
+    top: 50px;
+}
+
+
+.card3{
+    position: absolute;
+    width: 380px;
+height: 270px;
+top: 3900px;
+left: 650px;
+background-color: #ffffff;
+border: 2px solid #E7E7E7;
+
+}
+.card3 .img2{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+}
+.card3 h2{
+    position: absolute;
+font-size: 16px;
+font-weight: 700;
+line-height: 24px;
+letter-spacing: 0.01em;
+text-align: left;
+left: 20px;
+top: 140px;
+
+}    
+.card3 .p1{
+ position: absolute;
+font-size: 16px;
+font-weight: 400;
+line-height: 24px;
+text-align: left;
+left: 20px;
+top: 170px;
+
+
+}
+.card3 .p2{
+    position: absolute;
+   font-size: 16px;
+   font-weight: 400;
+   line-height: 24px;
+   text-align: left;
+   left: 20px;
+   top: 220px;
+   color: #FD9339;
+   border-bottom: 2px solid #FD9339;
+   }
+.card3 .img1{
+    position: absolute;
+    left: 110px;
+    top: 225px;
+    width: 25px;
+    height: 25px;
+}
+
+
+
+
+.card4 .card_navbar li{
+    display: inline-block;
+    margin-right: 20px;
+    line-height: 70px;
+    position: relative;
+}
+.card4 .card_navbar div{
+    width: 208px;
+height: 300px;
+background-color: #ffffff;
+
+}
+.card4 .card_navbar h2{
+    position: relative;
+    top: 10px;
+    left: 12px;
+font-size: 16px;
+font-weight: 400;
+line-height: 20px;
+text-align: left;
+
+}
+.card4 .card_navbar p{
+    position: relative;
+    top: 10px;
+    left: 12px;
+}
+.card4 .card_navbar img{
+    position: relative;
+    top: 10px;
+    left: 12px;
+}
+.card4 .card_navbar del{
+    position: relative;
+    top: -40px;
+    left: 12px;
+    color: #ff0101;
+}
+.card4 .card_navbar button{
+    position: relative;
+    top: -50px;
+    left: 73px;
+    color: #ffffff;
+    background-color: #FD9339;
+    border-radius: 5px;
+    padding: 12px 12px 12px 12px;
+    border: none ;
+}
+.card4 .card_navbar{
+    position: absolute;
+    left: 250px;
+    top: 4672px;
+    
+}
+
+.card4 .h1{
+    position: absolute;
+    top: 4612px;
+    left: 250px;
+
+    
+}
+.card4 .h2{
+    position: absolute;
+top: 4724px;
+left: 578px;
+z-index: 2;
+
+}
+.card4 img{
+    position: absolute;
+    top: 4612px;
+    left: 1300px;
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+

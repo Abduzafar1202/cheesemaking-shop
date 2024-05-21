@@ -1,0 +1,175 @@
+.footer{
+    width: 1680px;
+height: 300px;
+top: 5300px;
+left: 0px;
+background-color: #ffffff;
+position: absolute;
+border-bottom:2px solid #E7E7E7;
+border-left:2px solid #E7E7E7;
+border-right:2px solid #E7E7E7;
+}
+.logo_navbar li{
+    display: inline-block;
+    margin-right: 100px;
+}
+.logo_navbar .li h2{
+position: relative;
+top: -20px;
+left: 55px;
+}
+.logo_navbar .li2 h2{
+    position: relative;
+    top: -20px;
+    left: 85px;
+    }
+.logo_navbar h2{
+    position: relative;
+    top: -20px;
+    font-size: 18px;
+    font-weight: 700;
+    line-height: 22.99px;
+    text-align: left;
+
+}
+.logo_navbar img{
+    width: 200px;
+    height: 30px;
+}
+.logo_navbar{
+    position: absolute;
+    top: 60px;
+    left: 250px;
+}
+
+
+.logo_text h2{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+    color: #808080;
+
+}
+.logo_text p{
+    position: relative;
+    top: 15px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    text-align: left;
+}
+.logo_text{
+    position: absolute;
+    top: 110px;
+    left: 265px;
+}
+
+
+.Компания li{
+    display: inline;
+}
+.Компания h2{
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+text-align: left;
+line-height: 30px;
+}
+.Компания{  
+    position: absolute;
+    left: 550px;
+    top: 99px;
+}
+
+
+.Поддержка li{
+    display: inline;
+}
+.Поддержка h2{
+font-size: 14px;
+font-weight: 400;
+line-height: 20px;
+text-align: left;
+line-height: 30px;
+}
+.Поддержка{  
+    position: absolute;
+    left: 735px;
+    top: 99px;
+}
+
+
+.Способы_оплаты li{
+    display: inline-block;
+    margin-right: 20px;
+}
+.Способы_оплаты{  
+    position: absolute;
+    left: 980px;
+    top: 99px;
+    width: 208px;
+    line-height: 30px;
+}
+
+
+
+.footer_time h2{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    top: 0px;
+    left: 30px;
+    position: absolute;
+}
+.footer_time img{
+    top: 0px;
+    left: 0px;
+    position: absolute;
+}
+
+.footer_time{
+    position: absolute;
+    top: 99px;
+    left: 1240px;
+    width: 150px;
+    height: 20px;
+    }
+
+
+
+.footer_location h2{
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+    top: 0px;
+    left: 30px;
+    position: absolute;
+}
+.footer_location img{
+    top: 0px;
+    left: 0px;
+    position: absolute;
+}
+
+.footer_location{
+    position: absolute;
+    top: 129px;
+    left: 1170px;
+    width: 210px;
+    height: 20px;
+}
+
+
+.socialmedia li{
+    display: inline-block;
+    margin-right: 20px;
+}
+.socialmedia{  
+    position: absolute;
+    top: 170px;
+    left: 1175px;
+}
+

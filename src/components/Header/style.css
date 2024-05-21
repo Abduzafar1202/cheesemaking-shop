@@ -1,11 +1,16 @@
 .header{
     width: 1680px;
-height: 5406px;
+height: 190px;
 top: 0px;
 gap: 0px;
 background-color: #FFFBED;
+position: fixed;
+z-index: 9;
+
 
 }
+
+
 
 .cty img{
     width: 22px;
